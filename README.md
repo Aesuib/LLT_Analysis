@@ -14,8 +14,7 @@ It's only related to my tycoon data, so, it's to show you how to set up your exc
 
 ![](https://raw.githubusercontent.com/Aesuib/LLT_Analysis/master/LLTShot.PNG)
 
-
-
+Let me have a hello world message 
 # I'd like all advices to improve my sheet!
 
 If you have any more good ideas, give me via this project page or email me: soplani@gmail.com

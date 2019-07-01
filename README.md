@@ -12,7 +12,7 @@ https://landlordgame.com/
 
 It's only related to my tycoon data, so, it's to show you how to set up your excel to analyze your data.
 
-![](https://raw.githubusercontent.com/Aesuib/LLT_Analysis/master/LLTShot.PNG)
+![](https://github.com/Aesuib/LLT_Analysis/blob/master/LLTShot.PNG)
 
 Let me have a hello world message 
 # I'd like all advices to improve my sheet!

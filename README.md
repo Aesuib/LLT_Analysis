@@ -22,3 +22,9 @@ If you have any more good ideas, give me via this project page or email me: sopl
 -----
 which land of mine should be selected to sell to the market? the answer may be inside all these data, I think, Could you help me to analysis thie question?
 
+## a script for data input efficiency added
+
+2019-10-28:
+
+wps辅助录入llt数据.Q This file is used in “按键精灵” to help me copy the data from yesterday to today in the excel file 
+

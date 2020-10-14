@@ -2,7 +2,7 @@
 
 This  is an example excel file to collect data of Landlord Tycoon and to analysis later
 
-This page is the same as [the GitHub Page of this repository](https://aesuib.github.io/LLT_Analysis/), Because I will add some more pages in this toy but is is still under construction.
+This page is the same as [the GitHub Page of this repository](https://aesuib.github.io/LLT_Analysis/), I have added some more pages in this toy.
 
 
 

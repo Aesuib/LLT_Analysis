@@ -12,6 +12,10 @@ Here is the link of the official website of LLT
 
 https://landlordgame.com/
 
+## [The Final Chapter](https://aesuib.github.io/LLT_Analysis/TheFinalChapter.html)
+
+[**I ended up in the rank of 460 in the globe, and did a conclusion of my game experience here**](https://aesuib.github.io/LLT_Analysis/TheFinalChapter.html)
+
 ## Don't commit and push your changes!
 
 It's only related to my tycoon data, so, it's to show you how to set up your excel to analyze your data.
